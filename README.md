@@ -7,7 +7,7 @@
 ## About me:
 🔭 I’m currently studying for a bachelor's degree in computer science and econometrics. <br />
 😄 I am an open and communicative person, which makes me easy to get in touch with. I am keen to develop my skills and learn new things. <br />
-✨ I am also interested in machine learning, which I get to know through my activities in the science club.<br />
+✨ I am searching an internship.<br />
 🌱 I am currently learning to create websites in HTML<br />
 ⚡ Last year I completed the course: Numerical Computing in Python.
 
@@ -17,6 +17,8 @@
 * SQL
 * C
 * MatLab
+* HTML
+* CSS
 <br />
 
 <p align='center'>
