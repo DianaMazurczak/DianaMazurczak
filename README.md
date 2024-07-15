@@ -8,17 +8,19 @@
 🔭 I’m currently studying for a bachelor's degree in computer science and econometrics. <br />
 😄 I am an open and communicative person, which makes me easy to get in touch with. I am keen to develop my skills and learn new things. <br />
 ✨ I am searching an internship.<br />
-🌱 I am currently learning to create websites in HTML<br />
-⚡ Last year I completed the course: Numerical Computing in Python.
+🌱 I am currently interesting in machine learning.<br />
+⚡ Last year I completed the course: Numerical Computing in Python and many courses about SQL in Data Camp.
 
 ## 🛠 I am familiar with programming languages such as:
-* C#
-* Python
 * SQL
-* C
-* MatLab
-* HTML
+* C#
+* JavaScript
+* PHP
 * CSS
+* HTML
+* Python
+* C
+* Matlab
 <br />
 
 <p align='center'>
