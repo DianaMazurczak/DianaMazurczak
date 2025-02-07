@@ -1,8 +1,12 @@
 # Hi there 👋
 
  <br />
-📫 How to reach me: dmazurczak34@gmail.com
- <br />
+How to reach me?  <br />
+<a href="https://www.linkedin.com/in/diana-mazurczak-1294612b9/">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+</a> 
+<br />
+ 📫 Email: dmazurczak34@gmail.com  <br />
 
 ## About me:
 ✨ I am searching an internship.<br />
@@ -11,7 +15,7 @@
 :pushpin: Last year I completed the course: Numerical Computing in Python and courses about SQL and Data Science(Python) in Data Camp.
 😄 I am an open and communicative person, which makes me easy to get in touch with. I am keen to develop my skills and learn new things. <br />
 
-## 🛠 I am familiar with programming languages such as:
+## I am familiar with programming languages such as:
 * SQL ⭐⭐⭐
 * Python ⭐⭐⭐
 * C# ⭐⭐
