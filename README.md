@@ -11,8 +11,8 @@ How to reach me?  <br />
 ## About me:
 ✨ I am searching an internship.<br />
 :computer: I am currently interesting in machine learning and deep learning.<br />
-:mortar_board: I am graduating this year in Computer Science and Econometrics from the AGH University of Science and Technology <br />
-:pushpin: Last year I completed the course: Numerical Computing in Python and courses about SQL and Data Science(Python) in Data Camp.
+:mortar_board: I am graduating this year in Computer Science and Econometrics from the AGH University of Science and Technology. <br />
+:pushpin: Last year I completed the course: Numerical Computing in Python and courses about SQL and Data Science(Python) in Data Camp. <br />
 😄 I am an open and communicative person, which makes me easy to get in touch with. I am keen to develop my skills and learn new things. <br />
 
 ## I am familiar with programming languages such as:
